@@ -1,0 +1,28 @@
+{
+  "name": "google-oauth",
+  "version": "1.0.0",
+  "description": "google oauth client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/clarencetw/google-oauth.git"
+  },
+  "keywords": [
+    "google",
+    "oauth"
+  ],
+  "author": "Clarence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarencetw/google-oauth/issues"
+  },
+  "homepage": "https://github.com/clarencetw/google-oauth#readme",
+  "dependencies": {
+    "googleapis": "^36.0.0",
+    "opn": "^5.4.0",
+    "server-destroy": "^1.0.1"
+  }
+}
